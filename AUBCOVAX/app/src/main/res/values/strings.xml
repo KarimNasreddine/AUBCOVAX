@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AUBCOVAX</string>
+    <string name="register">REGISTER</string>
+    <string name="dose_confirmation">Dose Confirmation</string>
+    <string name="search">SEARCH</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="Book">BOOK</string>
+    <string name="download_certificate">Download Certificate</string>
+    <string name="patient_information">Patient Information</string>
+    <string name="title_activity_temp">activity_temp</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
